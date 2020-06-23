@@ -1,0 +1,17 @@
+<div class="container">
+  <h1 class="text-center mt-5 mb-2">New User</h1>
+
+  <%= render partial: 'form' %>
+
+  <% if @user.errors.any? %>
+  <div id="error_explanation" class="mt-2">
+    <h2><span class="text-danger"><%= pluralize(@user.errors.count, "error") %></span> prohibited this post from being saved:</h2>
+
+    <ul>
+      <% @user.errors.full_messages.each do |msg| %>
+      <li><%= msg %></li>
+      <% end %>
+    </ul>
+  </div>
+  <% end %>
+</div>
