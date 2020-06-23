@@ -2,7 +2,7 @@
 
 In this project we built a rails form from the ground up that sends parameters to a controller that builds an instance of a model with the parameters.
 
-![screenshot](./app/assets/images/Screenshot.png)
+![screenshot](./app/assets/images/screenshot.png)
 
 ## :package: Built With
 
