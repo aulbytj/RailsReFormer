@@ -12,7 +12,7 @@ In this project I've built a railsy form to show data from the database
 
 ## :mag: Live Demo
 
-[Live Demo Link](https://vast-temple-16115.herokuapp.com/)
+[Live Demo Link]()
 
 ## :busts_in_silhouette: Authors
 
