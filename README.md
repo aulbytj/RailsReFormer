@@ -1,6 +1,6 @@
 # Forms
 
-In this project I've built a rails form from the ground up that sends parameters to a controller that builds an instance of a model with the parameters.
+In this project I've built a railsy form to show data from the database
 
 ![screenshot](./app/assets/images/screenshot.png)
 
