@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+
+
+<body>
+  <%= render 'layouts/header' %>
+  <%
+=begin%>
+  <% flash.each do |type, msg| %>
+  <div class="alert alert-primary" role="alert">
+    <%= msg %>
+  </div>
+  <%
+=end%>
+  <p class="alert alert-primary" role="alert"><%= flash[:success] %></p>
+  <%= yield %>
+</body>
+
+</html>
