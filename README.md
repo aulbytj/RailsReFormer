@@ -1,24 +1,38 @@
-# README
+# Forms
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+In this project we built a rails form from the ground up that sends parameters to a controller that builds an instance of a model with the parameters.
 
-Things you may want to cover:
+![screenshot](./app/assets/images/Screenshot.png)
 
-* Ruby version
+## :package: Built With
 
-* System dependencies
+    - Ruby
+    - Ruby on Rails
+    - Heroku
 
-* Configuration
+## :mag: Live Demo
 
-* Database creation
+[Live Demo Link](https://vast-temple-16115.herokuapp.com/)
 
-* Database initialization
+## :busts_in_silhouette: Authors
 
-* How to run the test suite
+👤 **Aulbourn Knowles**
 
-* Services (job queues, cache servers, search engines, etc.)
+- Linkedin: [Aulbourn Knowles](https://www.linkedin.com/in/aulbourn-knowles)
+- Twitter: [@aulbytj](https://twitter.com/aulbytj)
+- Github: [@aulbytj](https://github.com/aulbytj)
+- Gmail: [aulbourn](mailto:aulbourn@gmail.com)
 
-* Deployment instructions
+## 🤝 Contributing
 
-* ...
+    Contributions, issues and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/aulbytj/RailsReFormer/issues).
+
+## :star2: Show your support
+
+    Give a ⭐️ if you like this project!
+
+## 📝 License
+
+This project is [MIT](lic.url) licensed.
